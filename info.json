@@ -6,7 +6,7 @@
 	"author": "Krydax",
 	"contact": "",
 	"homepage": "",
-	"description": "Accommodates the scrollbar in modded warehouses without overlapping items visually. Thanks to z498279401 for the original mod.",
+	"description": "Increases width of inventory, recipe categories width, and recipes width. Accommodates the scrollbar in modded warehouses without overlapping items visually. Thanks to z498279401 for the original mod.",
 	"dependencies":[
         "base >= 1.0.0"
 	]
