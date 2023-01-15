@@ -1,0 +1,13 @@
+{
+	"name": "Custom-Production-UI-Fixed",
+	"version": "1.0.0",
+	"factorio_version": "1.1",
+	"title": "Custom Production UI Fixed",
+	"author": "Krydax",
+	"contact": "",
+	"homepage": "",
+	"description": "Accommodates the scrollbar in modded warehouses without overlapping items visually. Thanks to z498279401 for the original mod.",
+	"dependencies":[
+        "base >= 1.0.0"
+	]
+}
