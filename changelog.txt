@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 2025.06.15
+  Changes:
+    - Added Vanilla values to settings description for clarity by Eulenberg
+    - Changed new options defaults from version 2.0.1 to Vanilla values by Eulenberg
+---------------------------------------------------------------------------------------------------
 Version: 2.0.1
 Date: 2025.05.30
   Changes:
